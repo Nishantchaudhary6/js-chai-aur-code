@@ -1,9 +1,9 @@
 let score="33"
 
-console.log(typeof score);
+// console.log(typeof score);
 
 let valueNumber= Number(score)
- console.log(typeof valueNumber);
+//  console.log(typeof valueNumber);
 
 // "33"=>33
 // "33abc"=>NaN  not a number but type is number
@@ -14,7 +14,7 @@ let valueNumber= Number(score)
 let isloggin=1
 
 let booleanvalue=Boolean(isloggin)
-console.log(booleanvalue);
+// console.log(booleanvalue);
 // 1=>true; 0=>false
 // ""false
 // "hotesh"=>true
@@ -22,5 +22,27 @@ console.log(booleanvalue);
 let somenumber=33
 
 let stringnumber=String(somenumber)
-console.log(stringnumber)
-console.log(typeof stringnumber);
+// console.log(stringnumber)
+// console.log(typeof stringnumber);
+
+
+// *****************operations********************
+
+let value=88
+let negvalue=-value
+console.log(negvalue)
+//console.log(2-2)
+// console.log(2%5)
+
+let str1="hello"
+let str2="hitesh"
+let str3=str1+str2
+console.log(str3);
+
+
+// console.log(1+"2")
+// console.log("1"+2)
+// console.log("1"+2+2)
+// console.log(2+1+"1")
+
+console.log()
