@@ -9,4 +9,4 @@ console.log(3+
     // undefine
     // symbol -unique
     //  object
-    console.log(typeof"nishant")
+    console.log(typeof"nishant") 
