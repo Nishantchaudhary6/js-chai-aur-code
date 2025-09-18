@@ -12,7 +12,7 @@ const gamename=new String("nishant-chaudhary-7856")
 const newstring=gamename.substring(6,2)
 // console.log(newstring)
 const anotherstring=gamename.slice(-8,4)
-console.log(anotherstring)
+// console.log(anotherstring)
 const newStringone="      nishanchaudhary      "
 console.log(newStringone.trim())
 const url="httpszzzmfdn com..bet"
@@ -20,7 +20,7 @@ const url="httpszzzmfdn com..bet"
 // console.log(url.includes("ps"))
 // console.log(gamename.split('-'))
 const score=100
-console.log(score);
+// console.log(score);
 const balance=new Number(1000)
 console.log(balance);
 console.log(balance.toString().length)
