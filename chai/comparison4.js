@@ -5,7 +5,7 @@ const repocount=50
 // console.log(`hello my name is ${name} and my repocount is ${repocount}`)
 const gamename=new String("nishant-chaudhary-7856")
 // console.log(gamename.length)
-// console.log(gamename.toUpperCase())
+// console.log (gamename.toUpperCase())
 // console.log(gamename.charAt(2))
 // console.log(gamename.indexOf('t'))
 

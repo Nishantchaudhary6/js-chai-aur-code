@@ -32,7 +32,9 @@ const dc =["superman","flash","batman"]
 // marvel.push(dc)
 
 // console.log(marvel) 
-const all=marvel.concat(dc)
+// const all=marvel.concat(dc)     old metheod
+const all=[...marvel,...dc]
+
 // console.log(all)
 
 const another=[1,24,[5,6,7,8],[95,2,[5,7,3,46,7]]]
